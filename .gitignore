@@ -1,0 +1,36 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# Build directories
+build/
+build-*/
+debug/
+release/
+
+# Generated Qt files
+Makefile
+Makefile.*
+moc_*
+ui_*
+qrc_*
+
+# Object and binary files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Runtime output
+output/
